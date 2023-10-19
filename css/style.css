@@ -1,0 +1,12 @@
+
+
+.train-ticket {
+    background-color: rgb(215, 129, 129);
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
